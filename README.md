@@ -48,8 +48,8 @@ module.exports = {
       resolve: 'gatsby-source-tmdb',
       options: {
         // apiKey and sessionID are mandatory
-        apiKey: process.env.API_KEY,
-        sessionID: process.env.SESSION_ID,
+        apiKey: process.env.0c25f2495efa085be07132671c6d85bc,
+        sessionID: process.env.f3e54804b6274bd04ee161b46ea0bf093e235f8c,
       },
     },
   ],
